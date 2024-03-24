@@ -18,7 +18,7 @@ Apache Tomcat: Server for hosting the website.
 OpenWeather API: External API for fetching weather data.
 
 **Installation and Usage**
-Clone Repository: git clone https://github.com/yourusername/weather-website.git
+Clone Repository: git clone https://github.com/Rachana-as/Weather_api_java.git
 Open in IDE: Import the project into your preferred Java IDE.
 Set Up Apache Tomcat: Install and configure Apache Tomcat server on your local machine.
 API Key: Sign up for OpenWeather API and obtain an API key.
